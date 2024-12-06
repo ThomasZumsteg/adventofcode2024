@@ -91,6 +91,7 @@ def test_part1():
 def test_part2():
     assert part2(parse(TEST_TEXT)) == 6
 
+
 if __name__ == "__main__":
     LINES = parse(get_input(day=6, year=2024))
     print(f"Part 1: {part1(LINES)}")
