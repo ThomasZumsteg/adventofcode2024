@@ -1,4 +1,4 @@
-"""Solution to day 10 of Advent of Code"""
+"""Solution to day 12 of Advent of Code"""
 
 from get_input import get_input, line_parser
 from functools import cache
